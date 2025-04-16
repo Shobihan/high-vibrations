@@ -1,3 +1,32 @@
-p {
-    font-weight: bold;
+/* Asterisk wildcard selector to override default styles added by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
 }
+
+
+
+/*Header */
+header {
+    background-color: lightcoral;
+}
+
+/* Main content */
+
+main {
+    background-color: lightblue;
+}
+
+p   {
+    font-weight: bold;
+}   
+/*Footer */
+
+footer {
+    background-color: orange;
+}
+
+
+
