@@ -196,6 +196,10 @@ p   {
 
     }
 
+    #meditation-image {
+        height: 760px ;
+    }
+
 
 }
     /* Media query for screen size of 992px and larger */ 
