@@ -47,9 +47,11 @@ header a {
 }
 
 #menu {
-    font-size: 110%;
+    font-size: 90%;
     letter-spacing: 4px;
     list-style-type: none;
+
+   
 }
 
 #menu > li {
@@ -130,8 +132,9 @@ main {
 
 /* Benefits of Meditation section styles */
 
-#practices > li {
-    list-style-type: circle;
+#practices {
+    list-style-type: disc;
+    padding-left: 20px;
 }
 
 
