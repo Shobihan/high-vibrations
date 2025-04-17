@@ -20,6 +20,12 @@ body  {
     color: #3a3a3a;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif; 
 } 
+h1, h2, h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
+}
 
 
 /*Header */
@@ -56,14 +62,6 @@ header a {
 
 
 
-
-h1 {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #252525;
-}
-
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
@@ -96,6 +94,7 @@ nav {
 
 main {
     
+
     /* Main main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 47px;
@@ -110,6 +109,24 @@ p   {
     height: 600px;
     width: 100%;
     background: url("../images/meditation.png.jpg") no-repeat center center/cover;
+    position: relative;
+}
+
+#cover-text {
+    background-color: rgba(241, 109, 107, .7);
+    font-size: 130%;
+    position: absolute;
+    bottom: 30px;
+    width: 80%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+
+}
+
+#cover-text > h2, #cover-text > h3 {
+    color: #ffffff;
+
 }
 
 
@@ -168,6 +185,14 @@ p   {
     main {   
         
         margin-top:150px;
+
+    }
+
+    /* Meditation-image */
+
+    #cover-text {
+        width: 300px;
+        right: 50px;
 
     }
 
