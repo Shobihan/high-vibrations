@@ -131,10 +131,11 @@ main {
 
 }
 
-/* H2 Selection styles */
+/* H1 Selection styles */
 
-#guided-meditation > h2{
+h1{
     text-align: center;
+    margin-top: 20px;
 }
 
 /* Benefits of Meditation section styles */
