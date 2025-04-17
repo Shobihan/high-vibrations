@@ -79,6 +79,7 @@ nav {
 #nav-toggle:checked~nav {
     display: block;
 
+
 }
 
 #nav-toggle {
