@@ -101,9 +101,7 @@ main {
     margin-top: 47px;
 }
 
-p   {
-    font-weight: bold;
-}   
+  
 
 /* Meditation-image section styles */
 #meditation-image {
@@ -128,6 +126,12 @@ p   {
 #cover-text > h2, #cover-text > h3 {
     color: #ffffff;
 
+}
+
+/* Benefits of Meditation section styles */
+
+#practices > li {
+    list-style-type: circle;
 }
 
 
@@ -197,9 +201,7 @@ p   {
 
     }
 
-    #meditation-image {
-        height: 760px ;
-    }
+
 
 
 }
