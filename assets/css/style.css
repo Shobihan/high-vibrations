@@ -226,7 +226,7 @@ h1{
 }
 
 
-/* Media query: tablets and larger _768px adn up) */ 
+/* Media query: tablets and larger _768px and up) */ 
 @media screen and (min-width: 768px) {
 
     /* Header*/
@@ -278,6 +278,9 @@ h1{
     #contact {
         background-position: center;
         position: relative;
+        background-size: cover;
+        min-height: 700px;
+        padding-bottom: 2rem;
     }
 
     #signup-form {
@@ -295,7 +298,6 @@ h1{
         background-color: #fafafa;
         color: #454b1b;
     }
-
 
   
    
