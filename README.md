@@ -38,7 +38,7 @@ Elevate your energy, quiet your mind, and awaken your spirit. Our space is dedic
 
 6. Footer
 
--The footer section includes links to the relevant social media sites for reaching a high vibration. The links will open to a new tab to allow easy navigation for the user.
+- The footer section includes links to the relevant social media sites to increase your vibration. The links will open in a new tab to allow easy navigation for the user.
 - The footer is valuable to the user as it encourages them to keep connected via social media 
 
 ![footer](https://github.com/user-attachments/assets/8d673017-ffd0-4ba5-98a0-2a118f2fce5a)
