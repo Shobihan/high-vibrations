@@ -10,7 +10,7 @@ Elevate your energy, quiet your mind, and awaken your spirit. Our space is dedic
 - Featured on all four pages, the full responsive navigation bar includes links to the logo, home page, guided meditation, mindfulness page and the contact page and is identical on each page to allow easy navigation 
 - This section will allow the user to navigate to the corresponding content without having to revert to the previous page via the 'back' button
 
-- 
+![navigation bar](https://github.com/user-attachments/assets/b9782adc-ece2-4ecc-8719-b492f845249f)
 
 
 
