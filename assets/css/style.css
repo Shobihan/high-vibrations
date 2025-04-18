@@ -99,7 +99,7 @@ nav {
 main {
     
 
-    /* Main main element take up any surplus space to push footer down */
+ /* Main main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 47px;
 }
@@ -131,32 +131,29 @@ main {
 
 }
 
-/* H1 Selection styles */
+/* h1 Selection styles */
 
 h1{
     text-align: center;
     margin-top: 20px;
 }
 
-/* Benefits of Meditation section styles */
+/* list section styles */
 
-#practices {
+#positives {
     list-style-type: disc;
     padding-left: 20px;
 }
 
 /*Home meditation image section style */
 
-#home-meditation-image {
-    display: flex;
-    width: 100%;
-    height: 400px;
-    margin-top: 10px;
-   
+
+.home-meditation-image img {
+    display:flex;
+    margin: 40px auto 0 auto;
+    max-width: 100%;
+    height: 550px;
 }
- 
-
-
 
 
 /*Footer */
@@ -225,9 +222,7 @@ h1{
 
     }
 
-
-
-
+   
 }
     /* Media query for screen size of 992px and larger */ 
 @media screen and (min-width: 992px) {
@@ -235,10 +230,9 @@ h1{
     #menu a:hover {
 
         border-bottom: 1px solid #3a3a3a;
-    
     }
 
-    }
+}
 
 
 
