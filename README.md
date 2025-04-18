@@ -53,6 +53,15 @@ Elevate your energy, quiet your mind, and awaken your spirit. Our space is dedic
 ### Unfixed Bugs 
 A couple of unfixed bugs have been found in my HTML code. Those are repeated occurrences of ID tags. The "positives" id tag had been several tags for <ul>, as it is easier when styling the list items than doing them individually. The second unfixed bug is ' no <p> element in scope but a </p> has been seen. I do have a <p>, but it's too far above to be seen. 
 
+## Deployment 
+- This site was deployed to GitHub Pages. The steps to deploy are as follows:
+  1. In the GitHub repository, navigate to the Settings tab.
+  2. From the source section drop-down menu on the left-hand side, click Pages.
+  3. There will be a section where it will mention Build and Deployment. On the Branch section, make sure it is on the main and in the root folder.
+  4. Click Save
+  5. Once the main branch has been selected, the page will be automatically refreshed.
+  6. Go back to your repository to double-check how your website will look when deployed by clicking GitHub Pages on the right-hand side under Deployments.
+  7. If there are any errors, for example, the images are not showing, please make sure you use a relative file path in the image tags. 
 
 ## How to View the Project
 - [View the deployed website](https://github.com/Shobihan/high-vibrations.git)
