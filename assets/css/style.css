@@ -112,7 +112,7 @@ flex-direction: column;
 }
 
   
-/* Meditation-image section styles */
+/* Meditation-image section styles for landing page */
 #meditation-image {
     height: 600px;
     width: 100%;
@@ -145,7 +145,7 @@ h1{
     margin-top: 20px;
 }
 
-/* list section styles */
+/* Main element lists section styles */
 
 #positives {
     list-style-type: disc;
@@ -183,6 +183,7 @@ h1{
     margin-bottom: 20px;
 }
 
+/* input and checkbox selection styles */
 .text-input {
     background: transparent;
     color: #fafafa;
@@ -274,6 +275,8 @@ h1{
         right: 50px;
 
     }
+
+    /*Form*/
 
     #contact {
         background-position: center;
