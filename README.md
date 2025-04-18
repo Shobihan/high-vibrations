@@ -51,7 +51,7 @@ Elevate your energy, quiet your mind, and awaken your spirit. Our space is dedic
 - HTML - a couple of errors have been found when passed through using the official [W3C validator](https://validator.w3.org/nu/#textarea)
 
 ### Unfixed Bugs 
-- A couple of unfixed bugs have been found in my HTML code. Those are repeated occurrences of ID tags. The "positives" id tag had been used as an attribute for my lists in the main body, as I want my lists to all have the same list style type, and so I can adjust the padding from the left so it's easier for the user to read between the lines. The second unfixed bug is that there is no opening p tag in scope, but a p end tag is seen; there are repeated occurrences of this, however, I do have an opening p tag, but it's too far above to be seen. 
+- A couple of unfixed bugs have been found in my HTML code. Those are repeated occurrences of ID tags. The "positives" id tag had been used as an attribute for my lists in the main body, as I want my lists to all have the same list style type, and so I can adjust the padding from the left so it's easier for the user to read between the lines. The second unfixed bug is that there is no opening p tag in scope, but a p end tag is seen; there are repeated occurrences of this, however, I do have an opening p tag, but it's a few lines above to be seen. 
 
 ## Deployment 
 - This site was deployed to GitHub Pages. The steps to deploy are as follows:
