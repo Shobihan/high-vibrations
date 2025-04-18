@@ -123,12 +123,12 @@ flex-direction: column;
 /*Cover text section styles */
 #cover-text {
     background-color: rgba(241, 109, 107, .7);
-    font-size: 130%;
+    font-size: 150%;
     position: absolute;
     bottom: 30px;
     width: 80%;
     min-height: 200px;
-    padding-top: 40px;
+    padding-top: 10px;
     padding-left: 10px;
 
 }
