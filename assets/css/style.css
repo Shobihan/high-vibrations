@@ -140,7 +140,7 @@ flex-direction: column;
 
 /* h1 Selection styles */
 
-h1{
+h2{
     text-align: center;
     margin-top: 20px;
 }
@@ -178,7 +178,7 @@ h1{
     padding: 30px;
 }
 
-#signup-form>h1 {
+#signup-form>h2 {
     color: #fafafa;
     margin-bottom: 20px;
 }
@@ -302,8 +302,6 @@ h1{
         color: #454b1b;
     }
 
-  
-   
 }
     /* Media query for screen size of 992px and larger */ 
 @media screen and (min-width: 992px) {
