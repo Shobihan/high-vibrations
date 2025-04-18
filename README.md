@@ -20,7 +20,7 @@ Elevate your energy, quiet your mind, and awaken your spirit. Our space is dedic
 - This section will allow the user to see the benefits of starting their meditation journey and how much it can impact their mental health.
 - It also includes the different types of meditation and allows the user to see which of them is the best suited to what mental barriers they may want to overcome.
 - Bullet points make it easier for the user to read the different types of meditation, and the favicons next to the headers create a more appealing look.
-- Also, an external link at the end of this section to help the user start their journey.
+- Also, an external link at the end of this section that will take them to a video to help the user start their journey.
 
 -![guided meditation section](https://github.com/user-attachments/assets/51c4df3d-e173-44b1-85fe-94134a264080)
 
